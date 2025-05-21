@@ -3,6 +3,7 @@
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
+- before running the project you will need to run this command `javac -d bin src/*/.java`
 
 The workspace contains two folders by default, where:
 
